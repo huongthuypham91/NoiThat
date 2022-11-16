@@ -1,0 +1,21 @@
+.bannerGT-content {
+    position: absolute;
+}
+.bannerGT-img img{
+    width: 100%;
+   
+} 
+.bannerGT-bottom{
+    background-color: #f3f3f3;
+    width: 100%;
+    height: 1200px;
+    
+}
+.danhmucGT{
+    background-color: #ffffff;
+    width: 70%;
+    position: absolute;
+    top: 470px;
+    right: 15%;
+    /* margin-bottom: 6rem; */
+}
